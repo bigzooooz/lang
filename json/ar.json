@@ -57,6 +57,7 @@
     "Go to page :page": "الإنتقال إلى الصفحة :page",
     "Hello!": "أهلاً بك!",
     "If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "إذا لزم الأمر، يمكنك تسجيل الخروج من جميع جلسات المتصفحات الأخرى عبر جميع أجهزتك. بعض جلساتك الأخيرة مذكورة أدناه؛ ومع ذلك، قد لا تكون هذه القائمة شاملة. إذا شعرت أنه تم اختراق حسابك، فيجب عليك أيضًا تحديث كلمة المرور الخاصة بك.",
+    "If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.": "إذا لزم الأمر، يمكنك تسجيل الخروج من جميع جلسات المتصفحات الأخرى عبر جميع أجهزتك. إذا شعرت أنه تم اختراق حسابك، فيجب عليك أيضًا تحديث كلمة المرور الخاصة بك.",
     "If you did not create an account, no further action is required.": "إذا لم تقم بإنشاء حساب ، فلا يلزم اتخاذ أي إجراء آخر.",
     "If you did not receive the email": "إذا لم تستلم البريد الإلكتروني",
     "If you did not request a password reset, no further action is required.": "إذا لم تقم بطلب استعادة كلمة المرور، لا تحتاج القيام بأي إجراء.",
@@ -75,6 +76,10 @@
     "Manage Role": "إدارة الصلاحيات",
     "Manage Team": "إدارة الفريق",
     "Name": "الاسم",
+    "Full Name": "الاسم الكامل",
+    "First Name": "الإسم الأول",
+    "Middle Name": "الإسم الأوسط",
+    "Last Name": "الإسم الأخير",
     "Nevermind": "لا يهم",
     "New Password": "كلمة مرور جديدة",
     "Not Found": "غير متوفر",
@@ -142,7 +147,6 @@
     "The team's name and owner information.": "اسم الفريق ومعلومات المالك.",
     "This action is unauthorized.": "عملية غير مصرّح بها.",
     "This device": "هذا الجهاز",
-    "This is a secure area of the application. Please confirm your password before continuing.": "هذه منطقة آمنة للتطبيق. يرجى تأكيد كلمة المرور الخاصة بك قبل المتابعة.",
     "This password does not match our records.": "كلمة المرور لا تتطابق مع سجلاتنا.",
     "This password reset link will expire in :count minutes.": "ستنتهي صلاحية رابط استعادة كلمة المرور خلال :count دقيقة.",
     "This user already belongs to the team.": "هذا المستخدم ينتمي بالفعل إلى الفريق.",
@@ -172,5 +176,14 @@
     "You may delete any of your existing tokens if they are no longer needed.": "يمكنك حذف أي من الرموز المميزة الموجودة لديك إذا لم تعد هناك حاجة إليها.",
     "You may not delete your personal team.": "لا يمكنك حذف فريقك الشخصي.",
     "You may not leave a team that you created.": "لا يمكنك مغادرة الفريق الذي أنشأته.",
-    "Your email address is not verified.": "بريدك الإلكتروني غير موثّق."
+    "Your email address is not verified.": "بريدك الإلكتروني غير موثّق.",
+    "Profile": "الملف الشخصي",
+    "If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "عند الحاجة، يمكن تسجيل الخروج من جميع الجلسات النشطة على المتصفحات والأجهزة الأخرى. بعض جلساتك الحديثة تجدها أدناه، لكن القائمة قد لا تكون مكتملة. اذا أحسست بأن حسابك قد تم إختراقه، يجب عليك تغيير كلمة المرور أيضًا.",
+    "Home":"الرئيسية",
+    "My Account":"حسابي",
+    "My Appointments":"مواعيدي",
+    "Logout":"خروج",
+    "The page has expired due to inactivity. Please refresh and try again":"إنتهت الجلسة، يرجى تحديث الصفحة",
+    "This page has expired due to inactivity. Would you like to refresh the page?":"إنتهت الجلسة، هل ترغب بتحديث الصفحة؟"
+
 }
